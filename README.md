@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/841ddb68-803a-4e93-903f-d91b9588b7cf)
-
-
 ### PetCare Digital Solutions
 
 Sistema de gerenciamento para clínicas veterinárias que permite o controle de tutores, animais, veterinários, consultas, vacinações e prontuários.
