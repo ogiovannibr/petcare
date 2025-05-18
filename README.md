@@ -6,12 +6,10 @@ Sistema de gerenciamento para clínicas veterinárias que permite o controle de 
 
 | Nome | RA
 |-----|-----
-|  | 
-|  | 
-|  | 
-|  | 
-|  | 
-
+| Leonardo de Lima | 235103
+| Giovanni Aparecido | 235227
+| Kariny do Prado | 234855
+| Kayke Denelle | 235054
 
 ## Diagrama de Fluxo
 
